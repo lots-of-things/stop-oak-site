@@ -3,16 +3,15 @@ main:
   - title: "Home"
     url: /
     blank: false
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
   - title: "Partners"
     url: /partners
     blank: false
-  - title: "Take Action"
-    url: /#section-2
+  - title: "Timeline"
+    url: /timeline
     blank: false
   - title: "Learn More"
-    url: /#section-3
+    url: /learnmore
     blank: false
-  - title: "Contact"
-    url: /#section-4
+  - title: "Press"
+    url: /press
     blank: false
