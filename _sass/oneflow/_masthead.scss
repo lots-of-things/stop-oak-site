@@ -1,6 +1,6 @@
 /* ==========================================================================
-   MASTHEAD
-   ========================================================================== */
+  MASTHEAD
+  ========================================================================== */
 
 .masthead {
   position: absolute;
@@ -17,35 +17,35 @@
   z-index: 20;
 
   &__inner-wrap {
-    @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1em;
-    max-width: 100%;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: justify;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    font-family: $sans-serif-narrow;
+   @include clearfix;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 1.5em; // Increased padding to compensate for larger logo
+   max-width: 100%;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-pack: justify;
+   -ms-flex-pack: justify;
+   justify-content: space-between;
+   font-family: $sans-serif-narrow;
 
-    @include breakpoint($x-large) {
-      max-width: $max-width;
-    }
+   @include breakpoint($x-large) {
+    max-width: $max-width;
+   }
 
-    nav {
-      z-index: 10;
-    }
+   nav {
+    z-index: 10;
+   }
 
-    a {
-      text-decoration: none;
-    }
+   a {
+    text-decoration: none;
+   }
   }
 }
 
 .site-logo img {
-  max-height: 4rem;
+  max-height: 6rem; // Increased from 4rem to 6rem (50% larger)
 }
 
 .site-title {
@@ -70,18 +70,18 @@
   clear: both;
 
   .site-nav {
-    margin-left: 0;
+   margin-left: 0;
 
-    @include breakpoint($small) {
-      float: right;
-    }
+   @include breakpoint($small) {
+    float: right;
+   }
   }
 
   ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
-    list-style-type: none;
+   margin: 0;
+   padding: 0;
+   clear: both;
+   list-style-type: none;
   }
 }
 
@@ -91,7 +91,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+   padding-right: 2em;
+   font-weight: 700;
   }
 }

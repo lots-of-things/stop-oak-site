@@ -19,13 +19,13 @@ layout: default
   .timeline > ul > li {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
     list-style: none;
     padding: 15px;
     border-left: 4px solid #0073e6;
     background: #f9f9f9;
     width: 100%;
-    text-align: center;
+    text-align: left;
   }
 
   .timeline ul ul li {
@@ -35,19 +35,60 @@ layout: default
     text-align: left;
   }
 
-  .timeline li .date {
+  .timeline li a {
     font-weight: bold;
     color: #0073e6;
     margin-bottom: 10px;
   }
 
-  .timeline li .content {
-    font-size: 1rem;
+  .timeline li a:hover {
+    text-decoration: underline;
+    color: #005bb5;
+  }
+
+  .timeline li strong {
+    font-weight: bold;
+    color: #4caf50;
   }
 
   @media (max-width: 768px) {
-    .timeline li {
-      text-align: center;
+    .timeline {
+      gap: 10px;
+      margin: 0 10px;
+      max-width: 100%;
+    }
+
+    .timeline > ul {
+      padding: 0;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    .timeline > ul > li {
+      border-left: none;
+      border-bottom: 1px solid #ddd;
+      padding: 0;
+      background: none;
+      width: 100%;
+      max-width: 100%;
+    }
+
+    .timeline ul ul {
+      margin-left: 0px;
+      padding: 0;
+      max-width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      overflow: hidden;
+    }
+
+    .timeline ul ul li {
+      margin-left: 0px;
+      padding: 0;
+      max-width: 100%;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      overflow: hidden;
     }
   }
 </style>

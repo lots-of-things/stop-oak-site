@@ -7,7 +7,7 @@ permalink: /timeline/
 - **2024-12-20**: The Stop OAK Expansion Coalition files a lawsuit to challenge the airport expansion project in court.
 
 - **2024-11-21**: Port of Oakland Commissioners certified the Final Environmental Impact Report (FEIR) for the proposed addition of 16 new gates to expand the Oakland airport despite community opposition.  
-  [Link to video of meeting testimony and public comment.](https://portofoakland.granicus.com/MediaPlayer.php?view_id=2&clip_id=372)
+  - [Link to video of meeting testimony and public comment.](https://portofoakland.granicus.com/MediaPlayer.php?view_id=2&clip_id=372)
 
 - **2024-11-20**: [Sign on Letter to the Port of Oakland to not certify the flawed FEIR](https://www.stopoakexpansion.org/s/Organization-Letter-re-FEIR-certification-vote_241120.pdf)
 
@@ -18,9 +18,9 @@ permalink: /timeline/
 - **2024-07-22**: [Letter to the Port of Oakland requesting a Health Impact Assessment for the planned expansion](https://www.stopoakexpansion.org/s/Stop-OAK-Ltr-to-Port-re-HIA-July-2024docx.pdf)
 
 - **2023-10-16**: CEQA public comment period  
-  - [**Link to Comments from Public Agencies, Organizations, from 1,000+ Individuals**](https://www.iflyoak.com/wp-content/uploads/2024/10/Appendix-P_DEIR-Comments-and-Responses.pdf)  
-  - [**Link to Comments from Alameda County Health Department**](https://www.stopoakexpansion.org/s/231016_Alameda-County-Public-Health-Department_-Kimi-Watkins-Tartt-and-Nicholas-Moss.pdf)  
-  - **Link to recorded meetings with over 60 public comments made opposing airport expansion:**  
+  - [Link to Comments from Public Agencies, Organizations, from 1,000+ Individuals](https://www.iflyoak.com/wp-content/uploads/2024/10/Appendix-P_DEIR-Comments-and-Responses.pdf)  
+  - [Link to Comments from Alameda County Health Department](https://www.stopoakexpansion.org/s/231016_Alameda-County-Public-Health-Department_-Kimi-Watkins-Tartt-and-Nicholas-Moss.pdf)  
+  - **Links to recorded meetings with over 60 public comments made opposing airport expansion:**  
     - 8/15 In Person Hearing: [https://www.youtube.com/watch?v=hl_KuMChm58](https://www.youtube.com/watch?v=hl_KuMChm58)  
     - 8/15 Zoom Hearing: [https://www.youtube.com/watch?v=NdflRTBUl7g](https://www.youtube.com/watch?v=NdflRTBUl7g)  
     - 8/30 In Person Hearing: [https://www.youtube.com/watch?v=LevXZCTqWCg](https://www.youtube.com/watch?v=LevXZCTqWCg)  
