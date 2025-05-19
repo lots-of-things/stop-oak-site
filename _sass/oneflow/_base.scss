@@ -72,12 +72,12 @@ ins {
   text-decoration: none;
   border-bottom: 1px solid $text-color;
   a {
-    color: inherit;
+    color: #007BFF;
   }
 }
 
-del a {
-  color: inherit;
+a {
+  color: #007BFF;
 }
 
 /* reduce orphans and widows when printing */
@@ -288,9 +288,6 @@ nav {
     list-style: none;
   }
 
-  a {
-    text-decoration: none;
-  }
 
   /* override white-space for nested lists */
   ul li,
