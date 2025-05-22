@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /
     blank: false
+  - title: "Donate"
+    url: https://actionnetwork.org/fundraising/contribute-to-fight-the-oak-expansion-in-court?source=direct_link&
+    blank: false
   - title: "Partners"
     url: /partners
     blank: false

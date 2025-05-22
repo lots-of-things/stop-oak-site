@@ -4,6 +4,9 @@ layout: timeline
 permalink: /timeline/
 ---
 
+## Campaign Timeline
+
+
 - **2024-12-20**: The Stop OAK Expansion Coalition files a lawsuit to challenge the airport expansion project in court.
 
 - **2024-11-21**: Port of Oakland Commissioners certified the Final Environmental Impact Report (FEIR) for the proposed addition of 16 new gates to expand the Oakland airport despite community opposition.  
