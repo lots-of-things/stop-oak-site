@@ -13,7 +13,7 @@ locale                   : "en-US"
 title                    : "Stop OAK Airport Expansion Coalition"
 title_separator          : "-"
 subtitle                 : " " # Displayed in the masthead below the title, use " " for no subtitle
-url                      : "https://test123domain123.de" # the base hostname & protocol for your site
+url                      : "https://stopoakexpansion.org" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/SOEC+logo+new.png" # Site logo displayed in the masthead
@@ -32,34 +32,6 @@ background-image-overlay : rgba(255, 255, 255, 0.5) # Set overlay for the backgr
 
 # Site Footer.
 footer:
-  links: # replace the URL's with your own for every link you want to have in your footer.
-    - label: "Website"
-      icon: "fa fa-globe"
-      url: "https://perstarke-webdev.de"
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto: per@starke-team.de"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      # url:
-    - label: "X/Twitter"
-      icon: "fab fa-x-twitter"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-facebook"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/perstarke-webdev"
-    - label: "Instagram"
-      icon: "fab fa-instagram"
-      url: "https://www.instagram.com/per.starke/"
-    - label: "YouTube"
-      icon: "fab fa-youtube"
-      url: "https://www.youtube.com/channel/UCG2Ndo4IEH8Fa0oIv2FBRMA"
-    - label: "Dev"
-      icon: "fab fa-dev"
-      url: "https://dev.to/per-starke-642"
   copyright: "Stop OAK Expansion Coalition" # Replace with your own
   creator: # Replace with your own creator name or remove this if you don't want any "created by" in the footer
       name: "Will Stedden"

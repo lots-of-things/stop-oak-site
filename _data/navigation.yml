@@ -15,8 +15,8 @@ main:
   - title: "Learn More"
     url: /learnmore
     blank: false
-  - title: "Press"
-    url: /press
+  - title: "Media"
+    url: /media
     blank: false
   - title: "Contact"
     url: /contact

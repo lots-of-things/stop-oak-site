@@ -3,9 +3,7 @@ layout: page
 title: Partners
 permalink: /partners
 ---
-<link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/versioned-site-css/60adba8e808fae694eba4fd9/57/5c5a519771c10ba3470d8101/60adba8e808fae694eba4ff3/1632/site.css">
-<link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1746551647531-BX5MPXJMUO71QGALFV5P/static.css">
-<link rel="stylesheet" type="text/css" href="https://assets.squarespace.com/universal/scripts-compressed/../styles-compressed/5fc7a936d9b12c49-min.en-US.css">
+
 
 <div class="content" id="yui_3_17_2_1_1746916631493_75">
       
@@ -24,7 +22,7 @@ permalink: /partners
 
 
 <div class="sqs-html-content">
-  <p class="" style="white-space:pre-wrap;">We welcome organizations and individuals to get involved! Please email admin@stopOAKexpansion.org to have your organization added to this list.</p>
+  <p class="" style="white-space:pre-wrap;">Please email <a href="mailto:admin@stopOAKexpansion.org">admin@stopOAKexpansion.org</a> to have your organization added to this list.</p>
 </div>
 
 

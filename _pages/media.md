@@ -1,10 +1,10 @@
 ---
-title: "Press"
+title: "Media"
 layout: timeline
-permalink: /press/
+permalink: /media/
 ---
 
-## Press Coverage
+## Media Coverage
 
 ### 2025
 
