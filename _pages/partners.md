@@ -105,7 +105,6 @@ img {
 [![CPA_horizontal_small+copy.png](assets/images/ead16b1a-a656-4dbd-a816-0dd548890859-CPA_horizontal_small+copy.png)](https://www.climatepsychiatry.org)
 [![CEJC.jpg](assets/images/ebea50fd-37f1-4d25-8822-ce1954f26391-CEJC.jpg)](https://cejcoalition.org)
 [![PlaneSense4LongIsland%281%29.jpg](assets/images/edbde16f-a2a4-4d20-b2c4-add440095196-PlaneSense4LongIsland%281%29.jpg)](https://www.facebook.com/groups/planesense4longisland/)
-[![APEN2C382U.png](assets/images/f093cad0-674e-4a68-9ed4-2a887dfa33ad-APEN2C382U.png)](https://apen4ej.org)
 [![Hope.png](assets/images/f099d78b-d5f5-433c-898a-027d8bda4ad4-Hope.png)](https://www.hopecollaborative.net/)
 [![xr+scientist+logo.png](assets/images/f26330b0-451a-4f4f-8383-ed7a12399cbe-xr+scientist+logo.png)](https://xrsfscientists.org)
 [![Triple+Justice.jpg](assets/images/f6c945b8-b238-4591-aab3-43bf102618e9-Triple+Justice.jpg)](https://triplejustice.org)
