@@ -28,7 +28,7 @@ img {
   <p class="" style="white-space:pre-wrap;">Please email <a href="mailto:admin@stopOAKexpansion.org">admin@stopOAKexpansion.org</a> to have your organization added to this list.</p>
 </div>
 
-
+[![OGAN_prev_HORZ.png](assets/images/5e928a88-993c-4727-82c0-ba661de7fc38-OGAN_prev_HORZ.png)](https://oilgasaction.org)
 [![image-asset.jpeg](assets/images/0573b8b2-fe80-4473-9786-1f7ec4f5c55e-image-asset.jpeg)](https://sac-ejc.org)
 [![Blue+Skies.png](assets/images/0d0e8472-7a8d-4902-9852-5ba5ca936a67-Blue+Skies.png)](https://www.facebook.com/groups/blueskiesadvocates)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
@@ -83,7 +83,7 @@ img {
 [![cfec-logo-35pct.png](assets/images/4ca09afe-1c99-4093-a19f-22684c0926eb-cfec-logo-35pct.png)](http://calenergychoice.org)
 [![FAF.png](assets/images/54d3ac3a-da8c-4a97-adc9-ccf4bc15a1b3-FAF.png)](https://www.facebook.com/groups/156713974514779/)
 [![Fridays+For+Future+El+Cerrito+Logo.png](assets/images/592a0fc9-5047-4641-8a4f-801ec1bb75f8-Fridays+For+Future+El+Cerrito+Logo.png)](https://fridaysforfutureusa.org/local-groups/el-cerrito/)
-[![OGAN_prev_HORZ.png](assets/images/5e928a88-993c-4727-82c0-ba661de7fc38-OGAN_prev_HORZ.png)](https://oilgasaction.org)
+
 [![CIPL.png](assets/images/6cf9a02c-e6c1-40bf-9390-9258cf74d852-CIPL.png)](https://www.interfaithpower.org)
 [![cropped-WOEIP-logo-unofficial.png](assets/images/6ea9ca90-c5aa-435b-b25f-e854786131f7-cropped-WOEIP-logo-unofficial.png)](https://woeip.org)
 [![D_PXjtcN_400x400.jpg](assets/images/70d72244-91b7-4f88-b8ae-0608f8e4df9f-D_PXjtcN_400x400.jpg)](https://www.seiu-usww.org/airport/)
