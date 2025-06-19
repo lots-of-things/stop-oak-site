@@ -44,7 +44,7 @@ img {
 [![Save+Our+Skies.jpg](assets/images/1624204971817-G9HBCTVB0DG0JGI9HYB9-Save+Our+Skies.jpg)](http://soseastbay.org)
 [![2019-RWU-Logo.jpg](assets/images/1624205326637-RSJODY6I9HFBSJV4EMJK-2019-RWU-Logo.jpg)](https://www.railroadworkersunited.org)
 [![unnamed.jpg](assets/images/1624205345209-BFPSK5XHJJFBM9ER08S7-unnamed.jpg)](http://www.sunflower-alliance.org)
-[![350Seattle+%281%29.png](assets/images/1624296363372-3HOPZRVJ5LG7TJMYG26X-350Seattle+%281%29.png)](https://350seattle.org/solutions-port-aviation/)
+[![350Seattle+%281%29.png](assets/images/350seattle.png)](https://350seattle.org/solutions-port-aviation/)
 [![BASCNCC.png](assets/images/1624582929385-ZG570R81XS9SLXWCNLTV-BASCNCC.png)](https://systemchangenotclimatechange.org)
 [![Green+Sky+THinking.png](assets/images/1624583026150-YYMSRBO3Q78RS4V7RPRW-Green+Sky+THinking.png)](https://www.facebook.com/GreenSkyThink)
 [![image-asset.png](assets/images/1625713736271-X2O9CMV9Z52O0LRFQE3G-image-asset.png)](https://350bayarea.org)
