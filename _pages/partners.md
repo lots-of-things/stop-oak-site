@@ -104,7 +104,7 @@ img {
 [![PCIC.png](assets/images/ea678891-bc2d-4d7e-b0c2-8cef2b40ff42-PCIC.png)](https://www.climateinnovation.net)
 [![Fridays+For+Future+El+Cerrito+Logo.png](assets/images/592a0fc9-5047-4641-8a4f-801ec1bb75f8-Fridays+For+Future+El+Cerrito+Logo.png)](https://fridaysforfutureusa.org/local-groups/el-cerrito/)
 [![image-asset.png](assets/images/1624204401743-6SXNV3304J7HYZ8APLQX-image-asset.png)](https://flightfree.org)
-[![PlaneSense4LongIsland%281%29.jpg](assets/images/edbde16f-a2a4-4d20-b2c4-add440095196-PlaneSense4LongIsland%281%29.jpg)](https://www.facebook.com/groups/planesense4longisland/)
+[![PlaneSense4LongIsland%281%29.jpg](assets/images/edbde16f-a2a4-4d20-b2c4-add440095196-PlaneSense4LongIsland.jpg)](https://www.facebook.com/groups/planesense4longisland/)
 [![Triple+Justice.jpg](assets/images/f6c945b8-b238-4591-aab3-43bf102618e9-Triple+Justice.jpg)](https://triplejustice.org)
 [![cfc+logo+96kb+png.png](assets/images/ffd3cf01-cde4-4a86-8509-f349b3be532d-cfc+logo+96kb+png.png)](https://citiesfeedcities.org)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
