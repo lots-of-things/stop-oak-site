@@ -37,6 +37,8 @@ img {
 [![image-asset.png](assets/images/1626919313216-BB2546Z5C8XBU42ISIJ4-image-asset.png)](https://350bayarea.org/350-san-francisco)
 [![Hope.png](assets/images/f099d78b-d5f5-433c-898a-027d8bda4ad4-Hope.png)](https://www.hopecollaborative.net/)
 [![xr+scientist+logo.png](assets/images/f26330b0-451a-4f4f-8383-ed7a12399cbe-xr+scientist+logo.png)](https://xrsfscientists.org)
+[![Youth-Vs.-Apocalypse.jpg](assets/images/1630470781293-LLGMZIFUID3D9UDBUZ32-Youth-Vs.-Apocalypse.jpg)](https://www.youthvsapocalypse.org)
+
 [![CPA_horizontal_small+copy.png](assets/images/ead16b1a-a656-4dbd-a816-0dd548890859-CPA_horizontal_small+copy.png)](https://www.climatepsychiatry.org)
 [![CEJC.jpg](assets/images/ebea50fd-37f1-4d25-8822-ce1954f26391-CEJC.jpg)](https://cejcoalition.org)
 [![CM736S8ZSpSwhiVLjjS3_GTC_Logo2.png](assets/images/d3471918-b8ea-4a5b-b51e-645c0c3309db-CM736S8ZSpSwhiVLjjS3_GTC_Logo2.png)](https://www.greenthechurch.org)
@@ -84,7 +86,7 @@ img {
 [![ican+logo.png](assets/images/1629779068788-CI7KM4X8E4OP079BF0IV-ican+logo.png)](https://www.interfaithccc.org/programs/ican/)
 [![SoaringDoveBlack-smaller.jpg](assets/images/1629780073392-SRNPOL71LUXF7D331NS2-SoaringDoveBlack-smaller.jpg)](https://ourpeacecenter.org)
 [![CRA+logo+2-01-200.jpg](assets/images/1629951148146-1NFEY2SBM0Y7H21R7U74-CRA+logo+2-01-200.jpg)](https://climaterailalliance.org)
-[![Youth-Vs.-Apocalypse.jpg](assets/images/1630470781293-LLGMZIFUID3D9UDBUZ32-Youth-Vs.-Apocalypse.jpg)](https://www.youthvsapocalypse.org)
+
 [![OAWLogo-DarkBlue.jpeg](assets/images/1630905165356-65LKTK5JRSBMUD3IUG6N-OAWLogo-DarkBlue.jpeg)](http://www.oregonaviationwatch.org)
 [![350ContraCostaLogo+v2.png](assets/images/1631590552511-31HTV54NMXEFG01UGDW8-350ContraCostaLogo+v2.png)](http://350contracosta.org)
 
@@ -103,8 +105,7 @@ img {
 [![Center+For+Environmental+Health.png](assets/images/4c8b0a2f-fdfd-40e4-b659-e13cb18f9647-Center+For+Environmental+Health.png)](https://ceh.org)
 [![cfec-logo-35pct.png](assets/images/4ca09afe-1c99-4093-a19f-22684c0926eb-cfec-logo-35pct.png)](http://calenergychoice.org)
 [![FAF.png](assets/images/54d3ac3a-da8c-4a97-adc9-ccf4bc15a1b3-FAF.png)](https://www.facebook.com/groups/156713974514779/)
-[![Fridays+For+Future+El+Cerrito+Logo.png](assets/images/592a0fc9-5047-4641-8a4f-801ec1bb75f8-Fridays+For+Future+El+Cerrito+Logo.png)](https://fridaysforfutureusa.org/local-groups/el-cerrito/)
-[![image-asset.png](assets/images/1624204401743-6SXNV3304J7HYZ8APLQX-image-asset.png)](https://flightfree.org)
+
 
 [![cropped-WOEIP-logo-unofficial.png](assets/images/6ea9ca90-c5aa-435b-b25f-e854786131f7-cropped-WOEIP-logo-unofficial.png)](https://woeip.org)
 
@@ -121,9 +122,20 @@ img {
 
 [![CRTP.png](assets/images/e05aa02e-6423-4d65-a0aa-d2159a3f235b-CRTP.png)](https://transportationpriorities.org)
 [![PCIC.png](assets/images/ea678891-bc2d-4d7e-b0c2-8cef2b40ff42-PCIC.png)](https://www.climateinnovation.net)
+[![Fridays+For+Future+El+Cerrito+Logo.png](assets/images/592a0fc9-5047-4641-8a4f-801ec1bb75f8-Fridays+For+Future+El+Cerrito+Logo.png)](https://fridaysforfutureusa.org/local-groups/el-cerrito/)
+[![image-asset.png](assets/images/1624204401743-6SXNV3304J7HYZ8APLQX-image-asset.png)](https://flightfree.org)
+
+
+
+
 
 [![PlaneSense4LongIsland%281%29.jpg](assets/images/edbde16f-a2a4-4d20-b2c4-add440095196-PlaneSense4LongIsland%281%29.jpg)](https://www.facebook.com/groups/planesense4longisland/)
 
 [![Triple+Justice.jpg](assets/images/f6c945b8-b238-4591-aab3-43bf102618e9-Triple+Justice.jpg)](https://triplejustice.org)
 [![cfc+logo+96kb+png.png](assets/images/ffd3cf01-cde4-4a86-8509-f349b3be532d-cfc+logo+96kb+png.png)](https://citiesfeedcities.org)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
+
+
+
+
+
