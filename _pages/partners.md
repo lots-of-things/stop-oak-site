@@ -28,6 +28,7 @@ img {
   <p class="" style="white-space:pre-wrap;">Please email <a href="mailto:admin@stopOAKexpansion.org">admin@stopOAKexpansion.org</a> to have your organization added to this list.</p>
 </div>
 
+[![cbd.circle.rgb.jpg](assets/images/1631766110883-SCNORBFFGGDR3JWVYAUC-cbd.circle.rgb.jpg)](https://biologicaldiversity.org)
 [![OGAN_prev_HORZ.png](assets/images/5e928a88-993c-4727-82c0-ba661de7fc38-OGAN_prev_HORZ.png)](https://oilgasaction.org)
 [![SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png](assets/images/1624204240865-FHGSX8I2OGOIQZ8CFOL0-SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png)](https://www.sierraclub.org/san-francisco-bay)
 [![Logo-East-Bay1.jpg](assets/images/1624204260507-9PAM10FJ66B6ESKVXH2U-Logo-East-Bay1.jpg)](https://350bayarea.org/350-east-bay)
@@ -86,7 +87,7 @@ img {
 [![Youth-Vs.-Apocalypse.jpg](assets/images/1630470781293-LLGMZIFUID3D9UDBUZ32-Youth-Vs.-Apocalypse.jpg)](https://www.youthvsapocalypse.org)
 [![OAWLogo-DarkBlue.jpeg](assets/images/1630905165356-65LKTK5JRSBMUD3IUG6N-OAWLogo-DarkBlue.jpeg)](http://www.oregonaviationwatch.org)
 [![350ContraCostaLogo+v2.png](assets/images/1631590552511-31HTV54NMXEFG01UGDW8-350ContraCostaLogo+v2.png)](http://350contracosta.org)
-[![cbd.circle.rgb.jpg](assets/images/1631766110883-SCNORBFFGGDR3JWVYAUC-cbd.circle.rgb.jpg)](https://biologicaldiversity.org)
+
 [![AW%2Blogo.jpg](assets/images/1631767614800-FD41VGLARXTAK6TFMDJZ-AW%2Blogo.jpg)](https://amazonwatch.org)
 [![NCIR+logo+pic.png](assets/images/1632257330851-HC1BU2NS54NQZUD79OC8-NCIR+logo+pic.png)](https://ncir.weebly.com)
 [![Peace_and_Freedom_Party_%28logo%29.png](assets/images/1634747113201-P097MDY7G28RQ3C9BBJB-Peace_and_Freedom_Party_%28logo%29.png)](http://peaceandfreedom.us/component/tags/tag/alameda-county)
