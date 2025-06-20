@@ -87,7 +87,7 @@ img {
 [![IBU.png](assets/images/2ed29d5e-ae7f-46ec-823e-4eccdfd5d16c-IBU.png)](https://members.ibu.org/ )
 [![Oakland+Heritage+Alliance.png](assets/images/32374a1f-7cbb-4834-bf5f-b5c67f71b9e4-Oakland+Heritage+Alliance.png)](https://www.oaklandheritage.org)
 [![image-asset.jpeg](assets/images/32caa2bd-9c0a-445f-ac4d-10622cbce9ca-image-asset.jpeg)](https://www.breatheforjustice.org)
-[![SG-Logo-Typo-Blue%402x.png](assets/images/3749009a-6ea3-43b1-98d5-279e4424a69d-SG-Logo-Typo-Blue%402x.png)](https://stay-grounded.org)
+[![SG-Logo-Typo-Blue%402x.png](assets/images/3749009a-6ea3-43b1-98d5-279e4424a69d-SG-Logo-Typo-Blue.png)](https://stay-grounded.org)
 [![image-asset.png](assets/images/39e34a75-4723-4f87-88dd-931e65b5f2f8-image-asset.png)](https://ceeetruth.org)
 [![cropped-CalDEC-logo-rectangle-260x84.png](assets/images/3e770d00-981f-4690-a281-30b1181e1e9c-cropped-CalDEC-logo-rectangle-260x84.png)](https://caldec.org/)
 [![cfec-logo-35pct.png](assets/images/4ca09afe-1c99-4093-a19f-22684c0926eb-cfec-logo-35pct.png)](http://calenergychoice.org)
