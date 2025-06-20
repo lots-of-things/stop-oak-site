@@ -29,6 +29,13 @@ img {
 </div>
 
 [![OGAN_prev_HORZ.png](assets/images/5e928a88-993c-4727-82c0-ba661de7fc38-OGAN_prev_HORZ.png)](https://oilgasaction.org)
+[![SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png](assets/images/1624204240865-FHGSX8I2OGOIQZ8CFOL0-SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png)](https://www.sierraclub.org/san-francisco-bay)
+[![Logo-East-Bay1.jpg](assets/images/1624204260507-9PAM10FJ66B6ESKVXH2U-Logo-East-Bay1.jpg)](https://350bayarea.org/350-east-bay)
+[![image-asset.jpeg](assets/images/1626558993890-13JLSA0KXUO5R2PLCYA6-image-asset.jpeg)](https://www.sfbaypsr.org)
+[![CIPL.png](assets/images/6cf9a02c-e6c1-40bf-9390-9258cf74d852-CIPL.png)](https://www.interfaithpower.org)
+[![image-asset.png](assets/images/1626919313216-BB2546Z5C8XBU42ISIJ4-image-asset.png)](https://350bayarea.org/350-san-francisco)
+
+
 [![image-asset.jpeg](assets/images/0573b8b2-fe80-4473-9786-1f7ec4f5c55e-image-asset.jpeg)](https://sac-ejc.org)
 [![Blue+Skies.png](assets/images/0d0e8472-7a8d-4902-9852-5ba5ca936a67-Blue+Skies.png)](https://www.facebook.com/groups/blueskiesadvocates)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
@@ -38,8 +45,8 @@ img {
 [![biofuelwatch+logo.jpg](assets/images/1624204162674-VWS9F50FVTHWE0DXTQQT-biofuelwatch+logo.jpg)](https://www.biofuelwatch.org.uk)
 [![ncio_square.jpg](assets/images/1624204182544-7K9TFK4CMP1X4X7VV8YR-ncio_square.jpg)](https://nocoalinoakland.info)
 [![1000grandmotherslogo.png](assets/images/1624204208066-BEDH3WDOA1WOEJ3CO28B-1000grandmotherslogo.png)](http://www.1000grandmothers.com)
-[![SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png](assets/images/1624204240865-FHGSX8I2OGOIQZ8CFOL0-SC-San-Francisco-Bay-Chapter-Logo_Vertical_Color.png)](https://www.sierraclub.org/san-francisco-bay)
-[![Logo-East-Bay1.jpg](assets/images/1624204260507-9PAM10FJ66B6ESKVXH2U-Logo-East-Bay1.jpg)](https://350bayarea.org/350-east-bay)
+
+
 [![image-asset.png](assets/images/1624204401743-6SXNV3304J7HYZ8APLQX-image-asset.png)](https://flightfree.org)
 [![Save+Our+Skies.jpg](assets/images/1624204971817-G9HBCTVB0DG0JGI9HYB9-Save+Our+Skies.jpg)](http://soseastbay.org)
 [![2019-RWU-Logo.jpg](assets/images/1624205326637-RSJODY6I9HFBSJV4EMJK-2019-RWU-Logo.jpg)](https://www.railroadworkersunited.org)
@@ -50,9 +57,9 @@ img {
 [![image-asset.png](assets/images/1625713736271-X2O9CMV9Z52O0LRFQE3G-image-asset.png)](https://350bayarea.org)
 [![image-asset.jpeg](assets/images/1625713792935-UCTGKXFEELW8EPKEJRXB-image-asset.jpeg)](https://350sonoma.org)
 [![image-asset.jpeg](assets/images/1626155196627-MBAXT7BA59C7GV7XKLY6-image-asset.jpeg)](https://www.solutionaryrail.org)
-[![image-asset.jpeg](assets/images/1626558993890-13JLSA0KXUO5R2PLCYA6-image-asset.jpeg)](https://www.sfbaypsr.org)
+
 [![image-asset.jpeg](assets/images/1626918177458-6XLA521ME1DKJFFOY7LN-image-asset.jpeg)](https://www.richmondprogressivealliance.net)
-[![image-asset.png](assets/images/1626919313216-BB2546Z5C8XBU42ISIJ4-image-asset.png)](https://350bayarea.org/350-san-francisco)
+
 [![image-asset.jpeg](assets/images/1627100949713-8BYZO27QTNRAL3CT0HPZ-image-asset.jpeg)](https://oaklandgreens.org)
 [![ECANC.jpg](assets/images/1627779406291-U2JVXE6SBPSB0DGJT881-ECANC.jpg)](https://www.eldersclimateaction.org/norcal-chapter/)
 [![image-asset.jpeg](assets/images/1627780036582-D5U0L441ETPW7Z0EQ340-image-asset.jpeg)](https://www.sanleandro2050.org)
@@ -84,7 +91,7 @@ img {
 [![FAF.png](assets/images/54d3ac3a-da8c-4a97-adc9-ccf4bc15a1b3-FAF.png)](https://www.facebook.com/groups/156713974514779/)
 [![Fridays+For+Future+El+Cerrito+Logo.png](assets/images/592a0fc9-5047-4641-8a4f-801ec1bb75f8-Fridays+For+Future+El+Cerrito+Logo.png)](https://fridaysforfutureusa.org/local-groups/el-cerrito/)
 
-[![CIPL.png](assets/images/6cf9a02c-e6c1-40bf-9390-9258cf74d852-CIPL.png)](https://www.interfaithpower.org)
+
 [![cropped-WOEIP-logo-unofficial.png](assets/images/6ea9ca90-c5aa-435b-b25f-e854786131f7-cropped-WOEIP-logo-unofficial.png)](https://woeip.org)
 [![D_PXjtcN_400x400.jpg](assets/images/70d72244-91b7-4f88-b8ae-0608f8e4df9f-D_PXjtcN_400x400.jpg)](https://www.seiu-usww.org/airport/)
 [![gaction.png](assets/images/817e9806-c6ed-4ccd-8b74-a0858a0b1f21-gaction.png)](https://greenaction.org)
