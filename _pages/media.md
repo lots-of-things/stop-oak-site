@@ -8,7 +8,7 @@ permalink: /media/
 
 ### 2025
 
-**2025-11-10** *Oaklandside* [Oaklandside: Oakland Mayor Lee met with Southwest’s CEO days after city dismissed lawsuit against airline)](https://oaklandside.org/2025/11/10/oakland-mayor-barbara-lee-southwest-lawsuit-labor/?mc_cid=611f321966&mc_eid=061770f23e) {:target="_blank"}
+- **2025-11-10** *Oaklandside* [Oaklandside: Oakland Mayor Lee met with Southwest’s CEO days after city dismissed lawsuit against airline)](https://oaklandside.org/2025/11/10/oakland-mayor-barbara-lee-southwest-lawsuit-labor/?mc_cid=611f321966&mc_eid=061770f23e) {:target="_blank"}
 - **2025-04-04** *Oaklandside* [Jet fumes over East Oakland but not Alameda? Groups say new OAK deal reinforces historic inequities](https://oaklandside.org/2025/04/04/oak-airport-expansion-flight-path-east-oakland-alameda-settlement/){:target="_blank"}
 - **2025-03-29** *KPFA Evening News* [minutes 21:46 to 24:30](https://kpfa.org/episode/the-kpfa-evening-news-saturday-march-29-2025/){:target="_blank"}
 - **2025-01-02** *Mercury News* [Opinion: Fewer SJC, OAK passengers is good for climate change fight; Oakland expansion plan is not](https://www.mercurynews.com/2025/01/02/opinion-drop-in-passengers-at-oakland-and-san-jose-airports-is-a-good-trend/){:target="_blank"}
