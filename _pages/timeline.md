@@ -6,7 +6,7 @@ permalink: /timeline/
 
 ## Campaign Timeline
 
-- **2026-04-15**: Trial date set for Alameda County Superior Court. [Read legal brief here] ({{ '/' | relative_url }}assets/images/Stop OAK Exp Reply Brief March 2 2026.pdf){:target="_blank"}
+- **2026-04-15**: Trial date set for Alameda County Superior Court. [Read legal brief here]({{ '/' | relative_url }}assets/images/Stop OAK Exp Reply Brief March 2 2026.pdf){:target="_blank"}
 
 - **2024-12-20**: The Stop OAK Expansion Coalition files a lawsuit to challenge the airport expansion project in court.
 
