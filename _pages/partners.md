@@ -94,7 +94,6 @@ img {
 [![FAF.png](assets/images/54d3ac3a-da8c-4a97-adc9-ccf4bc15a1b3-FAF.png)](https://www.facebook.com/groups/156713974514779/)
 [![gaction.png](assets/images/817e9806-c6ed-4ccd-8b74-a0858a0b1f21-gaction.png)](https://greenaction.org)
 [![Degrowth+Insitute.png](assets/images/86f82dfd-1444-4256-85ed-69f462de629f-Degrowth+Insitute.png)](https://www.degrowthinstitute.org/)
-[![image-asset.jpeg](assets/images/96802a4b-461a-459a-91dd-264abb7528d9-image-asset.jpeg)](https://www.ilwu.org)
 [![Stand_Logo_earth+300x99.png](assets/images/9be20a35-1af2-4a3a-b700-4e8870e6fde0-Stand_Logo_earth+300x99.png)](https://www.stand.earth)
 [![cropped-Safe-Landing-Logo-Bright-Green-1.png](assets/images/9bf502d3-a6cb-40fd-a1fe-23fc196e8166-cropped-Safe-Landing-Logo-Bright-Green-1.png)](https://safe-landing.org)
 [![Skyline+Church.jpg](assets/images/a50889f2-6c43-43fc-903b-f15cdad85769-Skyline+Church.jpg)](https://skylineucc.org/environmental-justice-green-team/)
