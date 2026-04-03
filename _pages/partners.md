@@ -94,6 +94,7 @@ img {
 [![FAF.png](assets/images/54d3ac3a-da8c-4a97-adc9-ccf4bc15a1b3-FAF.png)](https://www.facebook.com/groups/156713974514779/)
 [![gaction.png](assets/images/817e9806-c6ed-4ccd-8b74-a0858a0b1f21-gaction.png)](https://greenaction.org)
 [![Degrowth+Insitute.png](assets/images/86f82dfd-1444-4256-85ed-69f462de629f-Degrowth+Insitute.png)](https://www.degrowthinstitute.org/)
+[![PGR.LOGO.jpg](assets/images/PGR.LOGO.jpg)
 [![Stand_Logo_earth+300x99.png](assets/images/9be20a35-1af2-4a3a-b700-4e8870e6fde0-Stand_Logo_earth+300x99.png)](https://www.stand.earth)
 [![cropped-Safe-Landing-Logo-Bright-Green-1.png](assets/images/9bf502d3-a6cb-40fd-a1fe-23fc196e8166-cropped-Safe-Landing-Logo-Bright-Green-1.png)](https://safe-landing.org)
 [![Skyline+Church.jpg](assets/images/a50889f2-6c43-43fc-903b-f15cdad85769-Skyline+Church.jpg)](https://skylineucc.org/environmental-justice-green-team/)
@@ -107,4 +108,4 @@ img {
 [![Triple+Justice.jpg](assets/images/f6c945b8-b238-4591-aab3-43bf102618e9-Triple+Justice.jpg)](https://triplejustice.org)
 [![cfc+logo+96kb+png.png](assets/images/ffd3cf01-cde4-4a86-8509-f349b3be532d-cfc+logo+96kb+png.png)](https://citiesfeedcities.org)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
-[![PGR.LOGO.jpg](assets/images/PGR.LOGO.jpg)
+
