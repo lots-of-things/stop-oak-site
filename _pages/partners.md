@@ -78,7 +78,7 @@ img {
 [![SoaringDoveBlack-smaller.jpg](assets/images/1629780073392-SRNPOL71LUXF7D331NS2-SoaringDoveBlack-smaller.jpg)](https://ourpeacecenter.org)
 [![CRA+logo+2-01-200.jpg](assets/images/1629951148146-1NFEY2SBM0Y7H21R7U74-CRA+logo+2-01-200.jpg)](https://climaterailalliance.org)
 [![OAWLogo-DarkBlue.jpeg](assets/images/1630905165356-65LKTK5JRSBMUD3IUG6N-OAWLogo-DarkBlue.jpeg)](http://www.oregonaviationwatch.org)
-[![AW%2Blogo.jpg](assets/images/1631767614800-FD41VGLARXTAK6TFMDJZ-AW%2Blogo.jpg)](https://amazonwatch.org)
+[![AW2Blogo.jpg](assets/images/AW2Blogo.jpg)](https://amazonwatch.org)
 [![NCIR+logo+pic.png](assets/images/1632257330851-HC1BU2NS54NQZUD79OC8-NCIR+logo+pic.png)](https://ncir.weebly.com)
 [![Peace_and_Freedom_Party_%28logo%29.png](assets/images/1634747113201-P097MDY7G28RQ3C9BBJB-Peace_and_Freedom_Party.png)](http://peaceandfreedom.us/component/tags/tag/alameda-county)
 [![CAGELFA.jpg](assets/images/1634747730854-I6SANEP1RWUZ1W52SAJU-CAGELFA.jpg)](https://www.cagelfa.com)
