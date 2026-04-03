@@ -107,4 +107,4 @@ img {
 [![Triple+Justice.jpg](assets/images/f6c945b8-b238-4591-aab3-43bf102618e9-Triple+Justice.jpg)](https://triplejustice.org)
 [![cfc+logo+96kb+png.png](assets/images/ffd3cf01-cde4-4a86-8509-f349b3be532d-cfc+logo+96kb+png.png)](https://citiesfeedcities.org)
 [![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
-[![image-asset.jpeg](assets/images/0e8813ce-b63c-46cb-9f6b-4bc4f91ebaeb-image-asset.jpeg)](https://flightfree.net.au)
+[![image-asset.jpeg](assets/images/assets/images/PGR.LOGO.jpg)]
