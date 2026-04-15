@@ -1,4 +1,4 @@
----
+- ---
 title: "Media"
 layout: timeline
 permalink: /media/
@@ -7,9 +7,8 @@ permalink: /media/
 ## Media Coverage
 ## 2026
 
-**2026-04-14** – [Oaklandside: Judge hears environmental lawsuits against Oakland airport over expansion](https://oaklandside.org/2026/04/14/judge-hears-environmental-lawsuits-against-oakland-airport-over-expansion/){:target="_blank"}
-
-**2026-04-13** – [Oakland North: Court case challenges Oakland airport expansion plan)](https://oaklandnorth.net/2026/04/13/court-case-challenges-oakland-airport-expansion-plan/){:target="_blank"}
+- **2026-04-14** – [Oaklandside: Judge hears environmental lawsuits against Oakland airport over expansion](https://oaklandside.org/2026/04/14/judge-hears-environmental-lawsuits-against-oakland-airport-over-expansion/){:target="_blank"}
+- **2026-04-13** – [Oakland North: Court case challenges Oakland airport expansion plan)](https://oaklandnorth.net/2026/04/13/court-case-challenges-oakland-airport-expansion-plan/){:target="_blank"}
 
 ### 2025
 
