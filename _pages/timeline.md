@@ -6,7 +6,7 @@ permalink: /timeline/
 
 ## Campaign Timeline
 
-- **2026-07-13**: Judge rules against lawsuit. Coalition plans to appeal. [Read part 1 decision here]({{ '/' | relative_url }}assets/images/26.07.13LegalRulingPart1.pdf){:target="_blank"} [Read part 2 decision here]({{ '/' | relative_url }}assets/images/26.07.13LegalRulingPart2.pdf){:target="_blank"} 
+- **2026-07-13**: Judge rules against lawsuit. The Stop OAK Coalition plans to appeal. [Read part 1 decision here]({{ '/' | relative_url }}assets/images/26.07.13LegalRulingPart1.pdf){:target="_blank"} [Read part 2 decision here]({{ '/' | relative_url }}assets/images/26.07.13LegalRulingPart2.pdf){:target="_blank"} 
 
 - **2026-04-14**: Trial date set for Alameda County Superior Court. [Read legal brief here]({{ '/' | relative_url }}assets/images/Stop OAK Exp Reply Brief March 2 2026.pdf){:target="_blank"}
 
